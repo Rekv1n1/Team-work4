@@ -171,3 +171,11 @@ nav a {
   width: 22px;
   height: 27px;
 }
+nav a:nth-child(1) { margin-inline: -16px; }
+nav a:nth-child(2) { margin-inline: -13px; }
+nav a:nth-child(3) { margin-inline: -12px; }
+nav a:nth-child(4) { margin-inline: -15px; }
+nav a:nth-child(5) { margin-inline: -17.5px; }
+nav a:hover { background: rgba(0, 208, 158, .3); }
+nav a:active { transform: scale(.92); }
+nav a[aria-current] { background: #00D09E; }
