@@ -81,7 +81,7 @@ h2 {
 p {
   display: flex;
   align-items: center;
-  margin: -4px 0 0;
+  margin: 4px 0 0;
   height: 20px;
   font-size: 13px;
   font-weight: 600;
